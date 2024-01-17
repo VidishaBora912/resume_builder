@@ -1,0 +1,86 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    background-color: lavenderblush;
+}
+
+.text {
+    justify-content: center;
+    align-items: center;
+}
+
+.text h1 {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 50px;
+    font-weight: 700;
+    color: orchid;
+    padding-top: 5vh;
+    padding-bottom: 0vh;
+}
+
+.display {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 600;
+    color: turquoise;
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+}
+
+.para {
+    justify-content: justify;
+    align-items: center;
+    text-align: left;
+    font-size: 20px;
+    font-weight: 300;
+    color: rgb(3, 3, 3);
+    padding-top: 1.5vh;
+    padding-bottom: 1.5vh;
+}
+
+.data {
+    justify-content: center;
+    align-items: center;
+}
+
+.data h1 {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 600;
+    color: rgb(4, 148, 69);
+    padding-top: 5vh;
+    padding-bottom: 0vh;
+}
+
+.data h2 {
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+    font-size: 30px;
+    font-weight: 500;
+    color: rgb(187, 102, 5);
+    padding-top: 5vh;
+    padding-bottom: 0vh;
+}
+
+.data p {
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+    font-size: 20px;
+    font-weight: 300;
+    color: rgb(3, 3, 3);
+    padding-top: 1.5vh;
+    padding-bottom: 1.5vh;
+}
+
+
+createresume.great-site.net
